@@ -76,7 +76,7 @@ ticket1.update
 customer2.name = "Pedro Lawrence"
 customer2.update
 
-
+# screening1.map_items
 
 
 binding.pry
