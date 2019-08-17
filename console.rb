@@ -76,8 +76,7 @@ ticket1.update
 customer2.name = "Pedro Lawrence"
 customer2.update
 
-# customer1.films
-# film1.customers_count
+
 
 
 binding.pry
